@@ -1,0 +1,62 @@
+[
+  {
+    "keywords": ["daad", "germany", "study in germany"],
+    "title": "DAAD Scholarship",
+    "answer": "The DAAD Scholarship is a fully funded scholarship for international students in Germany. It usually covers tuition (if applicable), monthly stipend, health insurance, and travel allowance.",
+    "website": "https://www.daad.de/en/"
+  },
+  {
+    "keywords": ["chevening", "uk", "united kingdom"],
+    "title": "Chevening Scholarship",
+    "answer": "Chevening is the UK Government's fully funded scholarship for one-year master's degrees. It covers tuition fees, living expenses, flights, and additional grants.",
+    "website": "https://www.chevening.org/"
+  },
+  {
+    "keywords": ["erasmus", "erasmus mundus", "europe"],
+    "title": "Erasmus Mundus Scholarship",
+    "answer": "Erasmus Mundus provides fully funded scholarships to study joint master's programs across multiple European countries.",
+    "website": "https://erasmus-plus.ec.europa.eu/"
+  },
+  {
+    "keywords": ["fulbright", "usa", "united states"],
+    "title": "Fulbright Scholarship",
+    "answer": "Fulbright is one of the most prestigious scholarships in the United States. It funds graduate study, research, and cultural exchange programs.",
+    "website": "https://foreign.fulbrightonline.org/"
+  },
+  {
+    "keywords": ["mext", "japan"],
+    "title": "MEXT Scholarship",
+    "answer": "The Japanese Government (MEXT) Scholarship is fully funded and covers tuition, monthly allowance, and airfare for international students.",
+    "website": "https://www.studyinjapan.go.jp/en/"
+  },
+  {
+    "keywords": ["turkiye", "turkey", "turkiye burslari"],
+    "title": "Türkiye Scholarships",
+    "answer": "Türkiye Scholarships are fully funded by the Turkish Government and include tuition, accommodation, monthly stipend, health insurance, and flight tickets.",
+    "website": "https://www.turkiyeburslari.gov.tr/"
+  },
+  {
+    "keywords": ["gks", "south korea", "korea"],
+    "title": "Global Korea Scholarship (GKS)",
+    "answer": "GKS is a fully funded South Korean government scholarship covering tuition, living expenses, airfare, and language training.",
+    "website": "https://www.studyinkorea.go.kr/"
+  },
+  {
+    "keywords": ["hungary", "stipendium"],
+    "title": "Stipendium Hungaricum",
+    "answer": "Hungary's Stipendium Hungaricum Scholarship covers tuition fees, accommodation support, health insurance, and a monthly stipend.",
+    "website": "https://stipendiumhungaricum.hu/"
+  },
+  {
+    "keywords": ["china", "csc"],
+    "title": "Chinese Government Scholarship (CSC)",
+    "answer": "CSC Scholarships support international students in China with tuition, accommodation, health insurance, and monthly allowance.",
+    "website": "https://www.campuschina.org/"
+  },
+  {
+    "keywords": ["canada", "vanier"],
+    "title": "Vanier Canada Graduate Scholarships",
+    "answer": "Vanier Scholarships support outstanding doctoral students studying in Canada.",
+    "website": "https://vanier.gc.ca/"
+  }
+]
